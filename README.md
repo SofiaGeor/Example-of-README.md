@@ -4,4 +4,4 @@
 
 Created by *Sofia Georgousi*
 
-For E-learning (**Data Analysis course**) [https://elearningekpa.gr/courses/data-analyst]
+For E-learning [**Data Analysis course**](https://elearningekpa.gr/courses/data-analyst)
